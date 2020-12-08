@@ -1,6 +1,7 @@
 # Prime-formula-zokoko
 质数公式Prime formula，可按顺序求解
 
+![质数公式Prime formula](http://www.zokoko.cn/os/prime_formula/Prime_formula.jpg?raw=true)
 
 P(i)=Nx/∑(0->i)P[][i][i]!=any N(N>1)?∑(0->i)P[][i][i]push=>∑(0->i)P[][i][i]
 
